@@ -1,0 +1,14 @@
+                              COMMUTING AND EXERCISE HEART RATE SUMMARY
+
+   Subject          Avg Weekly                Days   Estimated Maximum   Ratio of Measured  Ratio of Commuting
+    Number           Heartrate           Exercised           Heartrate       Heartrate (%)       Heartrate (%)
+      1124               112.5                   4                 184               103.4                81.5
+      2438               118.0                   4                 194                97.0                82.5
+      2776               106.3                   2                 175                98.3                81.5
+      3521               113.8                   2                 169                93.4                87.8
+      4545               112.2                   4                 168                88.4                68.9
+      4915               127.7                   0                 193               104.3                91.4
+      6231               138.0                   2                 192               106.1                94.5
+      7345               132.2                   3                 184                94.4                86.7
+      8762               120.6                   3                 192               103.2                79.6
+      9439               126.2                   2                 199               101.0                80.7

@@ -1,0 +1,5 @@
+Balance Owing: $0.00
+APR as % 0
+Percent for minimum payment as % 0
+--------------------------------------------------------------------------------
+     Month             Balance     Monthly Intrest     Minimum Payment       Total Intrest

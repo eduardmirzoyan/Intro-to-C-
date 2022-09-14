@@ -1,0 +1,6 @@
+﻿  Lab 4.cpp
+C:\Ed's Stuff\C++\Intro to C++\Lab 4\Lab 4.cpp(79,45): warning C4244:  'argument': conversion from 'double' to 'int', possible loss of data
+C:\Ed's Stuff\C++\Intro to C++\Lab 4\Lab 4.cpp(79,13): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Ed's Stuff\C++\Intro to C++\Lab 4\Lab 4.cpp(37,19): warning C4101:  'isNew': unreferenced local variable
+C:\Ed's Stuff\C++\Intro to C++\Lab 4\Lab 4.cpp(37,7): warning C4101:  'isRequired': unreferenced local variable
+  Lab 4.vcxproj -> C:\Ed's Stuff\C++\Intro to C++\Debug\Lab 4.exe
